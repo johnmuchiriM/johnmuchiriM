@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A242F&width=435&lines=Hi+there!;My+name+is+John+Muchiri;Ambitious%7CEnthusiastic%7CFast-learner." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFA500&width=435&lines=Greetings!;My+name+is+John+Muchiri;Ambitious%2C+Enthusiastic+%26+Fast-learner;Delighted+to+have+you+visit+my+repo!" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm John Muchiri</h1>
 <h3 align="center">I am a software engineer who has an avid interest in matters to do with programming and software development. Ambitious, enthusiastic, and a fast learner.</h3>
 
