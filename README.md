@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFA500&width=435&lines=Greetings!;My+name+is+John+Muchiri;Ambitious%2C+Enthusiastic+%26+Fast-learner;Delighted+to+have+you+visit+my+repo!" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm John Muchiri</h1>
-<h3 align="center">I am a software engineer who has an avid interest in matters to do with programming and software development. Ambitious, enthusiastic, and a fast learner.</h3>
+<h3 align="center">A software engineer who has an avid interest in matters to do with programming and software development. Ambitious, enthusiastic, and a fast learner.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/300/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnmuchirim&label=Profile%20views&color=0e75b6&style=flat" alt="johnmuchirim" /> </p>
