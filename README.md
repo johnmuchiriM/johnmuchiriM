@@ -11,7 +11,7 @@ Adores science & guitars :)</h3>
 
 - 🌱 I’m currently learning **AWS(ML & AI), JavaScript**
 
-- 💬 Ask me about **Javascript, Flutter, React, NestJs**
+- 💬 Ask me about **Javascript, Flutter, React, NestJs,Java**
 
 - 📫 How to reach me **jeanfrancaiseharicot@gmail.com**
 
