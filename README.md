@@ -9,7 +9,7 @@ Adores science & guitars :)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnmuchirim" alt="johnmuchirim" /></a> </p>
 
-- 🌱 I’m currently learning **AWS(ML & AI), JavaScript**
+- 🌱 I’m currently learning **SpringBoot,AWS(ML & AI), JavaScript**
 
 - 💬 Ask me about **Javascript, Flutter, React, NestJs,Java**
 
