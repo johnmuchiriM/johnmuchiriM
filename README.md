@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **jeanfrancaiseharicot@gmail.com**
 
+- Portfolio 🚀 **https://johnmuchirim.github.io/**
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/john-muchiri75/overlay/1635501994789/single-media-viewer/](https://www.linkedin.com/in/john-muchiri75/overlay/1635501994789/single-media-viewer/)
 
 - ⚡ Fun fact **I love guitars!**
