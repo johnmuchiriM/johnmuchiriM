@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SpringBoot,AWS(ML & AI), JavaScript**
 
-- 💬 Ask me about **Javascript, Flutter, React, NestJs,Java**
+- 💬 Ask me about **Javascript, Flutter, React, Java**
 
 - 📫 How to reach me **jeanfrancaiseharicot@gmail.com**
 
