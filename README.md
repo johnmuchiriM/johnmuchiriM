@@ -15,7 +15,7 @@
 
 - Portfolio 🚀 **https://johnmuchirim.github.io/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/john-muchiri75/](https://www.linkedin.com/in/john-muchiri75/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/john-muchiri75/details/experience/](https://www.linkedin.com/in/john-muchiri75/details/experience/)
 
 - ⚡ Fun fact **I love guitars & Reading & Watching!**
 
