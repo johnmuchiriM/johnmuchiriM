@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/john-muchiri75/details/experience/](https://www.linkedin.com/in/john-muchiri75/details/experience/)
 
-- ⚡ Fun fact **I love guitars, Reading & Watching!**
+- ⚡ Fun fact **I love guitars, Reading, Travelling & Watching!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
