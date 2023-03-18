@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnmuchirim" alt="johnmuchirim" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot,AWS(ML & AI),Docker,JavaScript, Azure, Postgres, AWS, Data Structures & Algorithms, Software Architechture**
+- 🌱 I’m currently learning **SpringBoot,AWS(ML & AI),Docker,JavaScript, Azure, Postgres, AWS, Data Structures & Algorithms, Software Architechture, System Design**
 
 - 💬 Ask me about **Javascript, Flutter, React, Java SpringBoot, Angular**
 
