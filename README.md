@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SpringBoot,AWS(ML & AI),Docker,JavaScript, Azure, Postgres, AWS, Data Structures & Algorithms, Software Architechture, System Design**
 
-- 💬 Ask me about **Javascript, Flutter, React, Java-SpringBoot, Angular**
+- 💬 Ask me about **Javascript, Flutter, React, Java SpringBoot, Angular**
 
 - 📫 How to reach me **jeanfrancaiseharicot@gmail.com**
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I love guitars, Reading, Travelling,DIYs & Watching!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>Student - FIU
 <p align="left">
 <a href="https://linkedin.com/in/john-muchiri75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-muchiri75" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jeanfrancaise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jeanfrancaise" height="30" width="40" /></a>
