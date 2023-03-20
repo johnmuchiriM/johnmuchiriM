@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SpringBoot,AWS(ML & AI),Docker,JavaScript, Azure, Postgres, AWS, Data Structures & Algorithms, Software Architechture, System Design**
 
-- 💬 Ask me about **Javascript, Flutter, React, Java SpringBoot, Angular**
+- 💬 Ask me about **Javascript, Flutter, React, Java-SpringBoot, Angular**
 
 - 📫 How to reach me **jeanfrancaiseharicot@gmail.com**
 
